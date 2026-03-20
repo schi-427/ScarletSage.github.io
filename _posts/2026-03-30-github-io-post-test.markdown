@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Testing Post Format"
-catgories: Personal
+catgory: Personal
 description: "Testing Post Format on my personal github io blog"
 featured: false
 ---
