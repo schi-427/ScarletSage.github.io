@@ -8,6 +8,7 @@ permalink: /
 
 This is where I will blog about and host projects I'm working on.
 
-- [About]({{ site.baseurl }}/about/)
-- [Projects]({{ site.baseurl }}/projects/)
-- [Categories]({{ site.baseurl }}/categories/)
+- [About]({{ '/about/' | relative_url }})
+- [Projects]({{ '/projects/' | relative_url }})
+- [Blog]({{ '/blog/' | relative_url }})
+- [Categories]({{ '/categories/' | relative_url }})
