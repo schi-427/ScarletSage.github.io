@@ -5,3 +5,15 @@ url: "https://schi-427.github.io"
 
 theme: jekyll-theme-architect
 markdown: kramdown
+
+# Category settings
+categories:
+  - name: Personal
+    slug: personal
+    description: Personal thoughts and updates
+  - name: Programming
+    slug: programming
+    description: Technical posts, tutorials, and code examples
+  - name: Data
+    slug: data
+    description: Data analysis and visualization projects
