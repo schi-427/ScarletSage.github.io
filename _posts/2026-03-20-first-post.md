@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: My First Blog Post
 date: 2026-03-20
 category: Personal
