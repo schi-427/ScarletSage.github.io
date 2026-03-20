@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Testing Post Format"
 date: 2026-03-20
 category: Personal
