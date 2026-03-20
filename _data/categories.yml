@@ -1,0 +1,6 @@
+- name: Personal
+  slug: personal
+  description: Personal thoughts and updates
+- name: Programming
+  slug: programming
+  description: Programming and development topics
