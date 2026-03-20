@@ -1,9 +1,11 @@
 ---
-layout: post
+layout: default
 title: "Testing Post Format"
-catgory: Personal
-description: "Testing Post Format on my personal github io blog"
+date: 2026-03-20
+category: Personal
+description: "Testing post format on my personal GitHub Pages blog"
 featured: false
+permalink: /blog/testing-post-format/
 ---
 
 This page is just testing my blog in regards to making posts. 
