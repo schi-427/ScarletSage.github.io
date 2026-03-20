@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Testing Post Format"
-date: 2026-03-20
+date: 2026-03-30
 category: Personal
 description: "Testing post format on my personal GitHub Pages blog"
 featured: false
