@@ -9,5 +9,3 @@ markdown: kramdown
 social_links:
   email: "mailto:you@example.com"
   linkedin: "https://www.linkedin.com/in/yourname/"
-  bluesky: "https://bsky.app/profile/yourhandle"
-  mastodon: "https://mastodon.social/@yourhandle"
