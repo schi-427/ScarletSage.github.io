@@ -7,9 +7,9 @@ permalink: /blog/
 # All Posts
 
 {% for post in site.posts %}
-- **[{{ post.title }}]({{ post.url | relative_url }})**
+- **[{{ post.title }}]({{ post.url | relative_url }})** — 
   {% if post.category %}
-    — <a href="{{ '/categories/' | append: post.category | downcase | append: '/' | relative_url }}">{{ post.category }}</a>
+    <a href="{{ '/categories/' | append: post.category | downcase | append: '/' | relative_url }}">{{ post.category }}</a> — 
   {% endif %}
-  — {{ post.date | date: "%B %d, %Y" }}
+  {{ post.date | date: "%B %d, %Y" }}
 {% endfor %}
