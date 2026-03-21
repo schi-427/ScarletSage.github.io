@@ -1,19 +1,15 @@
 ---
 layout: default
-title: Categories
-permalink: /categories/
+title: Blog
+permalink: /blog/
 ---
 
-# Categories
+# All Posts
 
-Browse posts by category:
-
-{% assign categories = site.data.categories %}
-{% for category in categories %}
-## [{{ category.name }}]({{ '/categories/' | append: category.slug | append: '/' | relative_url }})
-{{ category.description }}
-
-{% assign posts_in_category = site.posts | where: "category", category.name %}
-**Posts:** {{ posts_in_category | size }}
-
+{% for post in site.posts %}
+- **[{{ post.title }}]({{ post.url | relative_url }})**
+  {% if post.category %}
+    — <a href="{{ '/categories/' | append: post.category | downcase | append: '/' | relative_url }}">{{ post.category }}</a>
+  {% endif %}
+  — {{ post.date | date: "%B %d, %Y" }}
 {% endfor %}
