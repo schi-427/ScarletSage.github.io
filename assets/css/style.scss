@@ -33,3 +33,14 @@
 .contact-list a:hover {
   text-decoration: underline;
 }
+
+/* tighten blog list spacing */
+#main-content ul li {
+  margin-bottom: 0.4rem;
+}
+
+/* optional: de-emphasize metadata */
+#main-content ul li a + a,
+#main-content ul li {
+  font-size: 0.95rem;
+}
