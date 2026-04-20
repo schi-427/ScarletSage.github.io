@@ -4,6 +4,8 @@ baseurl: "/ScarletSage.github.io" # this is important for project pages
 url: "https://schi-427.github.io"
 
 theme: jekyll-theme-architect
+plugins:
+  - jekyll-feed
 markdown: kramdown
 
 social_links:
