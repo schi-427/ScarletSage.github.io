@@ -40,7 +40,7 @@ I took the following steps to get these measurements:
 
 **This falls well below the NRPA's ideal space metric 10 acres of space per 1000 residents.**
 
-<img width="1175" height="1082" alt="Screenshot 2026-04-23 122249" src="https://github.com/user-attachments/assets/0e6a083a-1f8a-4889-92e3-dff084adcb25" />
+<img width="700" height="800" alt="Screenshot 2026-04-23 122249" src="https://github.com/user-attachments/assets/0e6a083a-1f8a-4889-92e3-dff084adcb25" />
 
 
 For the sake of thoroughness, I also wanted to consider recreational trails. Horry County has various recreational trails, and a few of these are near Conway, aside from the trails Conway itself has. So to get the caclulations with the trails included:
@@ -54,7 +54,7 @@ For the sake of thoroughness, I also wanted to consider recreational trails. Hor
 
 Looking at the map, this is execpted, considering the length of the nearby trails. In particular, the trail in the circle below is one long bike trail, much of which actually shares roads and highways. 
 
-<img width="1210" height="752" alt="Screenshot 2026-04-23 123333" src="https://github.com/user-attachments/assets/9fdef811-6d68-47e5-9d99-8f07a65225ec" />
+<img width="700" height="800" alt="Screenshot 2026-04-23 123333" src="https://github.com/user-attachments/assets/9fdef811-6d68-47e5-9d99-8f07a65225ec" />
 
 So while it's clear there is a lot of trail area, I don't think this is paricularly helpful for a gresnspace access study. I'm not sure the trails should be considered "open green space" to the degree actual parks are, so while I can have this data
 as a helpful supplement, I don't think it should be the main focus. Going forward, as I move to my "radius" and  "road network" analyses, I will not factor in the trails data except as a supplement. 
