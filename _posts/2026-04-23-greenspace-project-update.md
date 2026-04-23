@@ -43,7 +43,7 @@ I took the following steps to get these measurements:
 <img width="1175" height="1082" alt="Screenshot 2026-04-23 122249" src="https://github.com/user-attachments/assets/0e6a083a-1f8a-4889-92e3-dff084adcb25" />
 
 
-For the sake of covering all my bases, I also wanted to consider recreational trails. Horry County has various recreational trails, and a few of these are near Conway, aside from the trails Conway itself has. So to get the caclulations with the trails included:
+For the sake of thoroughness, I also wanted to consider recreational trails. Horry County has various recreational trails, and a few of these are near Conway, aside from the trails Conway itself has. So to get the caclulations with the trails included:
 1. Since the trails were initially line-based layers, I needed to convert them to polygons to get the area. I used the QGIS buffer feature to generate 20m buffers around the trails, saving this as a new layer.
 2. Combined this layer with the complexes and parks layer, using the field calculator to popualate the trail entries with area data, and then also for acreage.
 3. Created a dissolved layer from this that combines all entires into one entity, this way avoiding any potential overlaps.
