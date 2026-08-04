@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nonprofit Thoughts Update
+title: Nonprofit Update / Native Plant Garden Plans
 date: 2026-08-04
 category: Personal
 permalink: /blog/native-garden-plan-1/
